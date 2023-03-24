@@ -10,7 +10,11 @@
                 <span class="icon-bar"></span>
             </button>
 
+<<<<<<< HEAD
             <a class="navbar-brand" href="?page=utama">Sistem Informasi Perguruan Tinggi</a>
+=======
+            <a class="navbar-brand" href="?page=utama">Sistem Informasi Tinggi Masalah</a>
+>>>>>>> 4fe11374e27a18544660f937e67354aa06c0e616
         </div>
         <div id="navbar" class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
